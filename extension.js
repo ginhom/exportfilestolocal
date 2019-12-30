@@ -25,7 +25,7 @@ function activate(context) {
 			canSelectMany: false,
 			canSelectFiles: false,
 			canSelectFolders: true,
-			openLabel: '选择导出位置',
+			openLabel: 'Select export floder',
 			filters: {
 				'All files': ['*']
 			}
